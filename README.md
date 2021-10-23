@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nexed
+- 👀 I’m interested in Interesting Persons
+- 🌱 I’m currently learning Sound Design
+- 💞️ I’m looking to collaborate on Music Creations
+- 📫 How to reach me : Everwhere
