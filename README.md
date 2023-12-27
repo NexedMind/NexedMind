@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Nexed
-- 👀 I’m interested in Interesting Persons
-- 🌱 I’m currently learning Sound Design
-- 💞️ I’m looking to collaborate on Music Creations
-- 📫 How to reach me : Everwhere
+- 👋 Hi, I’m Sayca, a music maker and hobbyist developper.
+- 👀 I’m interested in Metin2 Developpement.
+- 🌱 I’m currently learning C++, Python.
+- 📫 How to reach me : Everwhere on this planet
